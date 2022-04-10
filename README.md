@@ -33,6 +33,6 @@ The final projectis a fullstack MERN support ticket system that uses Redux and R
 - Learn how to use context and reducers to manage global state
 - Build a Fullstack MERN support ticket system with Redux Toolkit
 
-## Requirements or Rrerequisites?
+## Requirements or Prerequisites?
 
 - Good Understanding of JavaScript
